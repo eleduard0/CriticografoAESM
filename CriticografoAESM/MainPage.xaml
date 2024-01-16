@@ -61,7 +61,7 @@
 
         </Grid>
         <Button Text="CRITICAR" CornerRadius="10"  WidthRequest="250" HorizontalOptions="Center" Clicked="Button_Clicked" FontAttributes="Bold" BackgroundColor="Gray"/>
-        <Label x:Name="Mensaje" TextColor="MidnightBlue" FontAttributes="Bold" FontSize="20" HorizontalOptions="Center" Margin="0,25"></Label>
+        <Label x:Name="Mensaje" TextColor="MidnightBlue" FontAttributes="Bold" FontSize="20" HorizontalOptions="CenterAndExpand" Margin="5,25"></Label>
 
 
     </StackLayout>
